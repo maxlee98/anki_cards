@@ -1,0 +1,10 @@
+一日,一日[ついたち] 	 1st of the month
+十日,"十日[とおか] 	 ten days, 10th of the month"
+七日,"七日[なのか] 	 seven days, 7th of the month"
+四日,"四日[よっか] 	 four days, 4th of the month"
+月,月[つき] 	 moon
+水,水[みず] 	 water
+金,金[かね] 	 money
+日曜日,日曜日[にちようび] 	 Sunday
+土曜日,土曜日[どようび] 	 Saturday
+やる,やる 	 do

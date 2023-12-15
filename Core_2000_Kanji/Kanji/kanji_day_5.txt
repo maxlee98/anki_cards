@@ -1,0 +1,10 @@
+金曜日,金曜日[きんようび] 	 Friday
+月曜日,月曜日[げつようび] 	 Monday
+木曜日,木曜日[もくようび] 	 Thursday
+曜日,曜日[ようび] 	 day of the week
+火曜日,火曜日[かようび] 	 Tuesday
+水曜日,水曜日[すいようび] 	 Wednesday
+週,週[しゅう] 	 week
+年,"年[とし] 	 year, age"
+分かる,分[わ]かる 	 understand
+そう,"そう 	 in such manner, that way"

@@ -1,0 +1,10 @@
+それ,"それ 	 that, that one"
+一つ,一[ひと]つ 	 one (thing)
+一,一[いち] 	 one
+二,二[に] 	 two
+二つ,二[ふた]つ 	 two (things)
+三,三[さん] 	 three
+三つ,三[みっ]つ 	 three (things)
+四つ,四[よっ]つ 	 four (things)
+四,四[し] 	 four
+これ,"これ 	 this, this one"

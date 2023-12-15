@@ -1,0 +1,10 @@
+四,四[よん] 	 four
+五つ,五[いつ]つ 	 five (things)
+五,五[ご] 	 five
+六つ,六[むっ]つ 	 six (things)
+六,六[ろく] 	 six
+七,七[なな] 	 seven
+七つ,七[なな]つ 	 seven (things)
+八,八[はち] 	 eight
+八つ,八[やっ]つ 	 eight (things)
+なる,なる 	 become

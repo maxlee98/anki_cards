@@ -1,0 +1,10 @@
+時々,時々[ときどき] 	 sometimes
+日,日[にち] 	 day
+六日,"六日[むいか] 	 six days, 6th of the month"
+三日,"三日[みっか] 	 three days, 3rd of the month"
+五日,"五日[いつか] 	 five days, 5th of the month"
+八日,"八日[ようか] 	 eight days, 8th of the month"
+二十日,"二十日[はつか] 	 20 days, 20th of the month"
+二日,"二日[ふつか] 	 two days, 2nd of the month"
+九日,"九日[ここのか] 	 nine days, 9th of the month"
+ところ,ところ 	 place
